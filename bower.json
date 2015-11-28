@@ -1,0 +1,17 @@
+{
+  "name": "load-balancer-smpp-front",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ProjectMaker/load-balancer-smpp-front",
+  "authors": [
+    "Rudeboy Tom <tomperso@yahoo.fr>"
+  ],
+  "description": "Supervision plateforme smpp",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
